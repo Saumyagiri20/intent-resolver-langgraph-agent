@@ -39,7 +39,7 @@ This agent bridges the gap between human language and structured data operations
 ---
 
 ## ⚙️ LangGraph Architecture
-
+![LangGraph Architecture](LangGraph_Architecture.png)
 
 
 ### 🔄 States
