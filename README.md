@@ -39,11 +39,7 @@ This agent bridges the gap between human language and structured data operations
 ---
 
 ## ⚙️ LangGraph Architecture
-<h2 align="center">🧠 LangGraph Architecture</h2>
-
-<p align="center">
-  <img src="LangGraph_Architecture.png" alt="LangGraph Architecture" />
-</p>
+![LangGraph Architecture](LangGraph_Architecture.png)
 
 
 
