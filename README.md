@@ -1,4 +1,4 @@
-# intent-resolver-langgraph-agent
+# Intent-Resolver-LangGraph-Agent
 
 # 🧠 Intent Resolver Agent
 
